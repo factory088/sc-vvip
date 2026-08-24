@@ -63,4 +63,6 @@ rm -f /root/update.sh
 # Tampilkan pesan sukses dan tutup terminal
 echo -e "\n\033[1;32mUpdate selesai! Skrip akan keluar secara otomatis.\033[0m"
 sleep 3
+
 exit
+
